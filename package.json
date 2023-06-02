@@ -6,7 +6,8 @@
     "build": "next build",
     "dev": "next dev",
     "lint": "next lint",
-    "start": "next start"
+    "start": "next start",
+    "tauri": "tauri"
   },
   "dependencies": {
     "@t3-oss/env-nextjs": "^0.3.1",
